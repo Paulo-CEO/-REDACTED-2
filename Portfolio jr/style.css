@@ -1,0 +1,48 @@
+body{
+    background-color: #D2B6FF;
+}
+#Inicio{
+    background-color:#2F1F49;
+}
+#PP{
+    color: white;
+}
+#Imagemprojeto{
+    width: 20%;
+    height: 20%;
+}
+#Imagemprojeto:hover{
+    width: 50%;
+    height: 50%;
+}
+img{
+    width: 2%;
+    height: 2%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    border-color: #2F1F49;
+    width: 4000px;
+    border: 1px solid;
+}
+body:active{
+    background-color: rgb(255, 255, 255);
+}
+#IA-900{
+    width: 20%;
+    height: 20%;
+}
+#Inglês{
+    width: 20%;
+    height: 20%;
+}
+#Equipe{
+    width: 20%;
+    height: 20%;
+}
+#Gestão{
+    width: 20%;
+    height: 20%;
+}
